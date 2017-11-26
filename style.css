@@ -1,0 +1,1518 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,600');
+
+@font-face {
+  font-family: "CorpidC1-Bold";
+  src: url('../fonts/CorpidC1-Bold.otf') format("opentype");
+}
+@font-face {
+  font-family: "NABImpact";
+  src: url('../fonts/NAB Impact-Regular.otf') format("opentype");
+}
+
+.a10-reward-saver-cross-sell-proposed3 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100%;
+  min-height          : 1584px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(109, 103, 126, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.a10-reward-saver-cross-sell-proposed3 .accountsbackground {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : 2000px;
+  width               : 1522px;
+  position            : absolute;
+  margin              : 0;
+  left                : -36px;
+  overflow            : hidden;
+}
+.a10-reward-saver-cross-sell-proposed3 .accountsbackground .mask {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 2000px;
+  width               : 1522px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .accountsbackground .image1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 14px;
+  height              : 2000px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : -204px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .rectangle1 {
+  background          : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 1522px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  margin-left         : -2.2em;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .nab-horizontal-spot-flat-star-reverse {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 28px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .nab-horizontal-spot-flat-star-reverse .fill1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .nab-horizontal-spot-flat-star-reverse .fill2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 19px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .nab-horizontal-spot-flat-star-reverse .group6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .apply-for-nab-classi {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+  font-family         : "CorpidC1-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.51px;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .button-ghost-with-dropdown {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 28px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1180px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .button-ghost-with-dropdown .need-help {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 5px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.45px;
+  line-height         : 18.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .button-ghost-with-dropdown .rectangle2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  border-style        : solid;
+  border-width        : 1;
+  border-color        : rgba(255, 255, 255, 1.0);
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .button-ghost-with-dropdown .image2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 7px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 84px;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .icons-padlock {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 15px;
+  height              : 19px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1311px;
+  opacity             : 0.6;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .navbar .icons-padlock .image3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  opacity             : 0.6;
+}
+.a10-reward-saver-cross-sell-proposed3 .components-navbar .secured-by-nab {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1336px;
+  font-family         : "CorpidC1-Bold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(154, 154, 154, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.39px;
+  line-height         : 15.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .background-copy {
+  background          : rgba(255, 255, 255, 0.95);
+  top                 : 116px;
+  height              : 1220px;
+  width               : 600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 256px;
+  border-radius       : 5px;
+}
+.a10-reward-saver-cross-sell-proposed3 .select-containerhousing {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 246px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+}
+
+.a10-reward-saver-cross-sell-proposed3 .select-containerhousing:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+  cursor             : pointer;
+}
+
+
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containercommunication {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 388px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containercommunication:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containerentertainment {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 388px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 555px;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containerentertainment:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+}
+
+.a10-reward-saver-cross-sell-proposed3 .select-containerfood {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 530px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+}
+.a10-reward-saver-cross-sell-proposed3 .select-containerfood:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+}
+.a10-reward-saver-cross-sell-proposed3 .select-containermedical {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 530px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 555px;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containermedical:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containereducation {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 673px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 555px;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containereducation:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containerclothing {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 673px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+}
+
+.a10-reward-saver-cross-sell-proposed3 .select-containerclothing:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+}
+
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containerchildcare {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 815px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 555px;
+}
+
+.a10-reward-saver-cross-sell-proposed3 .select-containerchildcare:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containertransport {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 815px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+}
+
+.a10-reward-saver-cross-sell-proposed3 .select-containertransport:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+}
+.a10-reward-saver-cross-sell-proposed3 .select-containerinsurance {
+  background-image: url("file:///Users/userUser/Desktop/AnimaPackage-Web-BOxXS/img/10%20reward%20saver%20%20cross%20sell%20proposed3%20selectcontainertransport.png");
+  top                 : 246px;
+  height              : 141px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 555px;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .select-containerinsurance:hover {
+  background-size: 0 0;
+  background-color   : #DA322A;
+}
+
+
+.a10-reward-saver-cross-sell-proposed3 .future-nav {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1204px;
+  height              : 44px;
+  width               : 572px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+}
+.a10-reward-saver-cross-sell-proposed3 .future-nav .line-copy2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 572px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .future-nav .tell-us-more-about-y {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 31.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .future-nav-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1268px;
+  height              : 43px;
+  width               : 572px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+}
+.a10-reward-saver-cross-sell-proposed3 .future-nav-copy .image4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 572px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .future-nav-copy .almost-finished {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 31.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .your-expenses {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 460px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .rectangle4-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -378px;
+  height              : 45px;
+  width               : 453px;
+  position            : absolute;
+  margin              : 0;
+  left                : 325px;
+}
+.a10-reward-saver-cross-sell-proposed3 .what-are-your-other {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 207px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .home2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 266px;
+  height              : 31px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+}
+.a10-reward-saver-cross-sell-proposed3 .home2 .shape {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .home2 .image5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 19px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.a10-reward-saver-cross-sell-proposed3 .home2 .image6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : 12px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.a10-reward-saver-cross-sell-proposed3 .phone1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 434px;
+  height              : 32px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 308px;
+}
+.a10-reward-saver-cross-sell-proposed3 .phone1 .image7 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .phone1 .image8 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 4px;
+  height              : 2px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .phone1 .image9 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 24px;
+  height              : 2px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .phone1 .image10 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : 2px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.a10-reward-saver-cross-sell-proposed3 .bag141 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 722px;
+  height              : 29px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+}
+.a10-reward-saver-cross-sell-proposed3 .bag141 .image11 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 7px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+}
+.a10-reward-saver-cross-sell-proposed3 .bag141 .image12 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .bag141 .image13 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 19px;
+  height              : 10px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+}
+.a10-reward-saver-cross-sell-proposed3 .bag141 .image14 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 17px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+}
+.a10-reward-saver-cross-sell-proposed3 .car41 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 854px;
+  height              : 17px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+}
+.a10-reward-saver-cross-sell-proposed3 .car41 .image15 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : 7px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+}
+.a10-reward-saver-cross-sell-proposed3 .car41 .image16 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : 7px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+}
+.a10-reward-saver-cross-sell-proposed3 .car41 .image17 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 7px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+}
+.a10-reward-saver-cross-sell-proposed3 .car41 .image18 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : 9px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .car41 .image19 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 2px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 262px;
+  height              : 32px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1 .image20 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : 18px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1 .image21 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : 11px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1 .image22 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 25px;
+  height              : 7px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1 .image23 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 4px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+}
+.a10-reward-saver-cross-sell-proposed3 .island1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 430px;
+  height              : 32px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 577px;
+}
+.a10-reward-saver-cross-sell-proposed3 .island1 .image24 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 26px;
+  height              : 6px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+}
+.a10-reward-saver-cross-sell-proposed3 .island1 .image25 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : 19px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+}
+.a10-reward-saver-cross-sell-proposed3 .island1 .image26 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.a10-reward-saver-cross-sell-proposed3 .island1 .image27 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 10px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .health-equipment-finance-calculator1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 577px;
+  height              : 32px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 577px;
+}
+.a10-reward-saver-cross-sell-proposed3 .health-equipment-finance-calculator1 .image28 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .health-equipment-finance-calculator1 .image29 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 17px;
+  height              : 12px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+}
+.a10-reward-saver-cross-sell-proposed3 .health-equipment-finance-calculator1 .image30 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 24px;
+  height              : 8px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 722px;
+  height              : 28px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 578px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image31 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 27px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image32 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image33 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 5px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image34 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image35 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image36 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 17px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image37 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 5px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image38 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image39 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+}
+.a10-reward-saver-cross-sell-proposed3 .book201 .image40 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 17px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+}
+.a10-reward-saver-cross-sell-proposed3 .meal1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 580px;
+  height              : 26px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+}
+.a10-reward-saver-cross-sell-proposed3 .meal1 .image41 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+}
+.a10-reward-saver-cross-sell-proposed3 .meal1 .image42 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .meal1 .image43 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 18px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+}
+.a10-reward-saver-cross-sell-proposed3 .meal1 .image44 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 8px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .meal1 .image45 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : 25px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+}
+.a10-reward-saver-cross-sell-proposed3 .meal1 .image46 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 14px;
+  height              : 8px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+}
+.a10-reward-saver-cross-sell-proposed3 .meal1 .image47 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : 9px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.a10-reward-saver-cross-sell-proposed3 .basic-housing-and-pr {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 262px;
+  height              : auto;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .group {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 852px;
+  height              : 35px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+}
+.a10-reward-saver-cross-sell-proposed3 .group .group1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : 21px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+}
+.a10-reward-saver-cross-sell-proposed3 .group .group1 .image48 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 8px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+}
+.a10-reward-saver-cross-sell-proposed3 .group .group1 .image49 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 13px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .group .male21 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .group .male21 .image50 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 10px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+}
+.a10-reward-saver-cross-sell-proposed3 .group .male21 .image51 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : 24px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .communications-and-m {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 431px;
+  height              : auto;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .food-and-groceries {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 571px;
+  height              : auto;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 353px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .clothing-and-persona {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 721px;
+  height              : auto;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .transport-eg-vehi {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 849px;
+  height              : auto;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance-eg-heal {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 256px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 621px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .recreation-and-enter {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 430px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 618px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .medical-and-health {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 571px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 618px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .education-eg-scho {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 721px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 618px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .childcare-eg-crc {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 849px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 618px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1134px;
+  height              : 19px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 335px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1-copy .image52 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : 10px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1-copy .image53 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : 7px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1-copy .image54 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 14px;
+  height              : 4px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+}
+.a10-reward-saver-cross-sell-proposed3 .insurance1-copy .image55 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.a10-reward-saver-cross-sell-proposed3 .rectangle8 {
+  background          : rgba(237, 237, 237, 1.0);
+  top                 : 1007px;
+  height              : 141px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 316px;
+}
+.a10-reward-saver-cross-sell-proposed3 .a000_page1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1063px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 497px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 67.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 66.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .totalhousing {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 355px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 471px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .totalcommunication {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 499px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 470px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .totalfood {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 637px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .total-clothing {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 780px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .total-insurance {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 355px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 785px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .total-entertainment {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 499px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 785px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .total-medical {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 637px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 783px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .total-education {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 780px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 783px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .total-transport {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 918px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .total-childcare {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 918px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 783px;
+  font-family         : "NABImpact", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .per-month {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1107px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 667px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.a10-reward-saver-cross-sell-proposed3 .your-total-expenses {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1025px;
+  height              : auto;
+  width               : 483px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
